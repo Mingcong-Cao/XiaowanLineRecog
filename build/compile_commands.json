@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/mnt/d/Projects/XiaoWanLineRecog/build",
+  "command": "/usr/bin/g++  -isystem /usr/local/include/opencv4 -g -o CMakeFiles/processimg.dir/processimg.cpp.o -c /mnt/d/Projects/XiaoWanLineRecog/processimg.cpp",
+  "file": "/mnt/d/Projects/XiaoWanLineRecog/processimg.cpp"
+}
+]
